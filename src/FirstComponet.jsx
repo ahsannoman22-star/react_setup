@@ -1,7 +1,7 @@
 
 import React from 'react'
 import img1 from './assets/hero.png'
- 
+import 'style.css'
 const FirstComponet = () => {
   return (
     <div>
